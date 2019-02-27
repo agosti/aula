@@ -5,3 +5,5 @@ linha 4
 linha 5
 linha 6
 linha 7
+linha 8 primeira linha criada na tarefa 1
+linha 9 segunda linha criada na tarefa 1
