@@ -12,3 +12,5 @@ linha 10 do master e da primeira linha criada na tarefa 2
 linha 11 criado no master para enviar ao repositorio remoto 
 
 linha 12 criada remotamente.....
+
+nova linha
