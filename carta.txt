@@ -7,3 +7,4 @@ linha 6
 linha 7
 linha 8 primeira linha criada na tarefa 1
 linha 9 segunda linha criada na tarefa 1
+linha 10 criado na master
